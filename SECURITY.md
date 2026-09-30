@@ -16,7 +16,7 @@ Only the latest release receives security fixes. Please make sure you can reprod
 
 - The **RowSprout** plugin (WordPress.org)
 - The **RowSprout Pro** add-on
-- The licence and update service at `license.get-wefta.com`
+- The licence and update service at `license.rowsprout.com`
 - The website `rowsprout.com`
 
 Vulnerabilities in WordPress core, themes or other plugins are out of scope; please report those to their own maintainers.
